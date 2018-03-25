@@ -1,0 +1,27 @@
+= KRIS
+Komunikacji Regulacji Inteligentny System
+:doctype: article
+:reproducible:
+:title-logo-image: image:images/Warszawa-korek.jpg[pdfwidth=6in, align=center, link=http://raportdrogowy.interia.pl/aktualnosci/news-warszawa-wsrod-najbardziej-zatloczonych-miast-kontynentu,nId,1054194]
+:source-highlighter: rouge
+:listing-caption: Listing
+:icons: font
+:toc:
+
+
+== Wstęp
+Prezentowany dokument jest produktem projektu _KRIS_.
+Kolejne rozdziały przedstawiają składowe całego systemu.
+
+NOTE: Należe mieć na uwadze, że dokument ten jest dziełem wielu osób, którym na sercu leży poprawa komunikacji miejskiej m. st. Warszawy.
+
+== Propozycja rozwiązania
+include::parts_of_document/KRIS-7-A.adoc[]
+
+include::parts_of_document/KRIS-10-A.adoc[]
+
+include::parts_of_document/KRIS-10-B.adoc[]
+
+include::parts_of_document/KRIS-12-A.adoc[]
+
+include::parts_of_document/KRIS-12-B.adoc[]
