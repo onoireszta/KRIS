@@ -1,0 +1,13 @@
+=Rozwiązanie przyczny drugiej
+==Brak tuneli lub wiaduktów kolejowych, które powodowałyby usprawnienie ruchu
+
+Brak dodatkowej infrastruktury drogowej, która pozwoliłaby na usprawnienie ruchu w okolicach przejazdów kolejowych, jest problemem trudnym do rozwiązania z kilku istotnych przyczyny:
+
+* Koszty budowy tuneli i wiaduktów
+* Koszty modernizacji istniejącej już infrastruktury drogiej jak i kolejowej
+* Brak wystarczającej ilości miejsca w danej okolicy
+* Występowanie zabudowań w okolicy przejazdów kolejowych
+* Duże utrudnia w ruchu kolejowym jak i drogowym w czasie trwania przebudowy na długi okres czasu
+* Brak możliwości zastosowania takiego rozwiązania z uwagi na ukształtowanie terenu 
+
+Niestety rozwiązanie to zostaje ocenione jako negatywne chodź z punktu widzenia kierowców powodowałoby całkowitą eliminację występowania utrudnień z miejscach krzyżowania się ruchu kolejowego z ruchem drogowym 
