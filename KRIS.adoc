@@ -22,6 +22,8 @@ include::parts_of_document/KRIS-10-A.adoc[]
 
 include::parts_of_document/KRIS-10-B.adoc[]
 
+include::parts_of_document/KRIS-10-C-1.adoc[]
+
 include::parts_of_document/KRIS-12-A.adoc[]
 
 include::parts_of_document/KRIS-12-B.adoc[]
