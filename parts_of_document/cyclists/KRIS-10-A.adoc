@@ -1,0 +1,3 @@
+===== KRIS-10.A
+// Zmień nazwę pliku (na nazwę, która opisuje zawartość), gdy już go zaktualizujesz
+*TODO*

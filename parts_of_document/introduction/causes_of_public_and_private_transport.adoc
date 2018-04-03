@@ -1,0 +1,8 @@
+W Warszawie -- mieście, które nigdy nie zasypia -- można wyróżnić szereg problemów przekładających się na utrudnienia w komunikacji publicznej i prywatnej.
+Próba skatalogowania tych zjawisk może prowadzić do powstania kilku grup interesantów o wyraźnie zarysowanych granicach swoich przynależności.
+
+.Wśród tych grup zostali wyróżnieni:
+ * **kierowcy** samochodów osobowych;
+ * **pasażerowie** komunikacji publicznej (tramwajów, autobusów, metra);
+ * mieszkańcy Warszawy, **piesi** poruszający się po chodnikach;
+ * **rowerzyści** poruszający się po ulicach i specjalnych ścieżkach.

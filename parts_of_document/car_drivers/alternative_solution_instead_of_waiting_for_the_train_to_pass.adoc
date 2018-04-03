@@ -1,14 +1,10 @@
-=== [KRIS-12.C.3] Zaprojektować rozwiązanie dla trzeciej z trzech przyczyn
-**(Przyczyny uczestnictwa w korkach przy zamkniętych przejazdach -> niekorzystanie z komunikacji miejskiej)**
-
+===== Rozwiązanie problemu niekorzystania z komunikacji miejskiej zamiast stania w korku przy zamkniętych przejazdach
 Aby rozwiązać ten problem, można stworzyć kampanie społeczne pokazujące ludziom alternatywne sposoby i drogi komunikacji.
 Jednocześnie wiązałoby to się ze stworzeniem rzeczywistych możliwości, czyli zorganizowaniem przewoźników (podpisanie z nimi umów),
 którzy zaczęliby obsługiwać pasażerów na odcinkach zakorkowanych. Oznacza to, rozbudowanie infrastruktury drogowej
 o specjalne pasy dla (najprawdopodobniej) autobusów.
 
-
-**(Przyczyny uczestnictwa w korkach przy zamkniętych przejazdach -> brak odpowiednio długich zatoczek lub pasów dodatkowych dla osób oczekujących na przejazd po otwarciu szlabanu)**
-
+===== Rozwiązanie problemu braku odpowiednio długich zatoczek lub pasów dodatkowych dla osób oczekujących na przejazd po otwarciu szlabanu
 Rozwiązaniem tej sytuacji jest rozbudowa infrastruktury drogowej o dodatkowe pasy "postojowe", na których będą stały pojazdy oczekujące na otwarcie przejazdu. Inwestycja nie jest tania, ale na obecną chwilę odkładanie jej w czasie niczego nie poprawi. Pojazdów przybywa, użytkowników drogi przybywa, więc trzeba zacząć powiększać szerokość drogi o dodatkowe pasy "postojowe".
 
 Alternatywą (choć nie tak korzystną) jest edukacja społeczeństwa i kampanie społeczne, aby nie wozić w samochodzie powietrza,

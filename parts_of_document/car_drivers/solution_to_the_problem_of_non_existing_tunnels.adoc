@@ -1,5 +1,4 @@
-=Rozwiązanie przyczny drugiej
-==Brak tuneli lub wiaduktów kolejowych, które powodowałyby usprawnienie ruchu
+===== Brak tuneli lub wiaduktów kolejowych, które powodowałyby usprawnienie ruchu
 
 Brak dodatkowej infrastruktury drogowej, która pozwoliłaby na usprawnienie ruchu w okolicach przejazdów kolejowych, jest problemem trudnym do rozwiązania z kilku istotnych przyczyny:
 

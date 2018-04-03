@@ -1,16 +1,16 @@
-=== [KRIS-10.B] Wybrać istotne przyczyny strachu
+===== Istotne przyczyny strachu rowerzysty
 
-**Strach ze względu na samochody:**
+====== Strach ze względu na samochody:
 
 * Strach przed byciem uderzonym przez samochód - w zawiązku z tym, że bardzo niewiele osób stosuje się do przepisów związanych z zieloną strzałką rowerzysta boi się, że ktoś w niego stuknie i wyląduje on w szpitalu.
 * Strach przed wpadnięciem pod samochód - w związku z dynamiką skrętu za strzałką, Rowerzysta obawia się, że nie zauważy jadącego samochodu lub ten będzie jechał nieprzepisowo i ostatecznie spotkają się w pół drogi.
   
-**Strach ze względu na pieszych/rowerzystów:**
+====== Strach ze względu na pieszych/rowerzystów:
 
 * Strach przed wpadnięciem na innego rowerzystę lub pieszego - w związku z dynamiką skrętu, rowerzysta boi się, że może kogoś nie zauważyć i spowodować kolizję. 
    Szczególnie mocny jest strach przed wpadnięciem na innego rowerzystę, który będzie nieprzepisowo przejeżdżać przez przejęcie dla pieszych.
    
-**Strach koloru zielonego:**
+====== Strach koloru zielonego:
 
 * Rowerzysta od zawsze ma złe skojarzenia z kolorem zielonym. W szkole podstawowej Pani od języka polskiego zawsze wystawiała mu oceny niedostateczne do dziennika takim kolorem co sprowadziło do jego niechęci
    na patrzenie na ten kolor. W związku z tym często odwraca od zielonych rzeczy głowę. Jednak jako uczestnik ruchu drogowego jest on zmuszony na niego patrzeć (światła, strzałka),

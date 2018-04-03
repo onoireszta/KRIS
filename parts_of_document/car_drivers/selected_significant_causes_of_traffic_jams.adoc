@@ -1,6 +1,6 @@
-= [KRIS-12.B] Wybrać istotne przyczyny stania w korkach przy zamkniętych przejazdach.
+===== Istotne przyczyny stania w korkach przy zamkniętych przejazdach
 
-== Przyczyny powstawania korków przy zamkniętych przejazdach:
+====== Przyczyny powstawania korków przy zamkniętych przejazdach:
 
  - **umiejscowienie przejazdów w okolicy dużych węzłów drogowych**
    * trudne do uniknięcia w okolicach centrum
@@ -17,7 +17,7 @@
    * niektóre pociągi pasażerskie wchodzą w skład komunikacji miejskiej i stanowią środek transportu do/z pracy, ich zwiększone kursowanie w godzinach szczytu jest potrzebne
    * inne pociągi powinny być w miarę możliwości przeniesione w inne godziny
 
-== Przyczyny uczestnictwa w korkach przy zamkniętych przejazdach
+====== Przyczyny uczestnictwa w korkach przy zamkniętych przejazdach
  - **niekorzystanie z komunikacji miejskiej**
    * potrzebna kampania społeczna i ogólna poprawa atrakcyjności komunikacji miejskiej
 - nie unikanie tras na których jest przejazd kolejowy
