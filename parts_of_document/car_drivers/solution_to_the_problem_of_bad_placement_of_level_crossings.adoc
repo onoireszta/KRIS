@@ -1,0 +1,8 @@
+==== Rozwiązanie umiejscowienia przejazdów w okolicy dużych węzłów drogowych
+
+   * przebudowanie infrastruktury kolejowej tak, aby jak najwięcej linii biegło równolegle, unikając "poszatkowania" przestrzeni miejskiej
+   * tworzenie kolejowej obwodnicy miasta, ograniczenie wjazdu dla pociągów niepasażerskich w godzinach szczytu
+   * planowanie wielopoziomowych skrzyżowań drogowo-kolejowych, które nie zaburzają płynności ruchu i nie przyczyniają się do powstawania korków
+   * w centrum wytyczanie torowisk pod lub nad ziemią nie tylko na skrzyżowaniach, ze względu na gęstą infrastrukturę drogową
+   * płynna regulacja przejazdów na jednopoziomowych skrzyżowaniach ważnych dróg (np. ekspresowych, autostrad, obwodnic) z drogami kolejowymi poprzez analizę natężenia ruchu, a później sygnalizację maszyniście prędkości jaką powinien utrzymać by jak najlepiej dopasował się do warunków panujących na drodze. W efekcie pociągi nie mają pełnego pierwszeństwa, a jest ono regulowane przez sygnalizację.
+  
