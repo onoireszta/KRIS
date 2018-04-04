@@ -43,7 +43,7 @@ include::parts_of_document/pedestrians/KRIS-7-A.adoc[]
 // KRIS-10
 image::images/cyclists.jpg[pdfwidth=3in, align="center", link=https://bicycledutch.files.wordpress.com/2016/06/vri-05.jpg]
 
-include::parts_of_document/cyclists/KRIS-10-A.adoc[]
+include::parts_of_document/cyclists/significant_causes_of_fear.adoc[]
 
 include::parts_of_document/cyclists/selected_significant_causes_of_fear.adoc[]
 
