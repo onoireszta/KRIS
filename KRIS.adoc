@@ -64,6 +64,8 @@ include::parts_of_document/car_drivers/alternative_solution_instead_of_waiting_f
 // KRIS-10
 include::parts_of_document/cyclists/solution_to_the_problem_of_fear_of_cars.adoc[]
 
+include::parts_of_document/cyclists/solution_to_the_problem_of_fear_other_cyclists.adoc[]
+
 
 
 
