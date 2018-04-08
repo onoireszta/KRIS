@@ -39,7 +39,9 @@ image::images/public_transport_problem.jpeg[pdfwidth=3in, align="center", link=h
 // KRIS-7;
 image::images/pedestrian.jpg[pdfwidth=3in, align="center", link=https://i.ytimg.com/vi/TmBuCmQAGR8/maxresdefault.jpg]
 
-include::parts_of_document/pedestrians/KRIS-7-A.adoc[]
+include::parts_of_document/pedestrians/causes_of_short_green_fear.adoc[]
+
+include::parts_of_document/pedestrians/main_causes_of_short_green_fear.adoc[]
 
 ==== Problemy dotyczące rowerzystów
 // KRIS-10
