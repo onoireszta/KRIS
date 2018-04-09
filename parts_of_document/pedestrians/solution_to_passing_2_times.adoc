@@ -1,0 +1,7 @@
+===== Pieszy obawia się, że jeśli nie przyspieszy, będzie musiał przejść przez ulicę “na dwa razy” (przy pierwszym zielonym świetle do połowy i będzie musiał poczekać na kolejne zielone światło)
+
+*Proponowane rozwiązanie:*
+
+Dynamiczne dostosowanie długości drugiego zielonego światła na podstawie obserwacji ruchu pieszego - zostaje obliczony czas pokonania pierwszego przejścia, następnie aproksymuje się go dla pozostałej ścieżki pieszego.  Sama ścieżka również może ulegać przejściowym zmianom z uwagi na remont części chodnika czy prace drogowe obejmujące przejście dla pieszych. W przypadku grupy pieszych czas przejścia określany jest dla najwolniej poruszającego się osobnika. 
+
+Rozwiązanie to wymaga zastosowania kamer dla każdego ciągu pieszego na skrzyżowaniu oraz ich integracji z systemem śledzącym ruch postaci i obliczającym czas przejścia. Zmienna ta zostaje następnie przekazana sterownikowi świateł na skrzyżowaniu, który odpowiednio modyfikuje długość zielonego na drugim przejściu. 
