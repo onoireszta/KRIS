@@ -67,6 +67,7 @@ include::parts_of_document/car_drivers/solution_to_the_problem_of_poor_visibilit
 
 ==== Rozwiązania dotyczące pieszych
 // KRIS-7;
+include::parts_of_document/pedestrians/solution_to_passing_2_times.adoc[]
 
 ==== Rozwiązania dotyczące rowerzystów
 // KRIS-10
