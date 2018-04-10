@@ -1,0 +1,10 @@
++=== [KRIS-10.C.3] Zaprojektować rozwiązanie dla trzeciej z trzech przyczyn
+**(Strach koloru zielonego)**
+
+Kolor zielony niestety nie wszystkim musi kojarzyć się z kolorem, który oznacza ruszanie ze świateł. Rowerzyści często widząc ten kolor obawiają się o samochody, które mogą zajechać im drogę na warunkowej strzałce w prawo. 
+
+Pierwszym sposobem na rozwiązanie tego problemu może być zastosowanie diody RGB w sygnalizacji co pozwoli na zmianę koloru w zależności od pory dnia oraz rowerzyście nie będzie kojarzyć się już tylko z kolorem zielonym. Kolejności umiejscowienia oznaczeń na sygnalizatorze nie uległaby zmianie. 
+
+Drugim sposobem na rozwiązanie tego problemu jest zastosowanie wyświetlacza, na którym to można byłoby wyświetlać animacje, która pokazuje co rowerzysta ma zrobić w danym momencie stać lub jechać.
+
+Trzecim i ostatnim proponowanym sposobem może być zastosowanie liczników, które odliczają jak długo jeszcze rowerzysta może jechać. Liczniki te zastąpiłby tradycyjne zielone światło a pozwoliłby dodatkowo poinformować rowerzystę czy według jego oceny zdąży przejechać skrzyżowanie w wyświetlanym czasie. 
