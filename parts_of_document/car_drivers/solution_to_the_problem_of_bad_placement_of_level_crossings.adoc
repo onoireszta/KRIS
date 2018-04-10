@@ -1,4 +1,4 @@
-==== Rozwiązanie umiejscowienia przejazdów w okolicy dużych węzłów drogowych
+===== Rozwiązanie umiejscowienia przejazdów w okolicy dużych węzłów drogowych
 
    * przebudowanie infrastruktury kolejowej tak, aby jak najwięcej linii biegło równolegle, unikając "poszatkowania" przestrzeni miejskiej
    * tworzenie kolejowej obwodnicy miasta, ograniczenie wjazdu dla pociągów niepasażerskich w godzinach szczytu
