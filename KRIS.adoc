@@ -33,6 +33,8 @@ include::parts_of_document/car_drivers/causes_of_blocking_crossings_by_cars.adoc
 
 include::parts_of_document/car_drivers/main_causes_of_blocking_crossings_by_cars.adoc[]
 
+include::parts_of_document/car_drivers/solution_to_the_problem_blocking_crossing_knowingly.adoc[]
+
 ==== Problemy dotyczące pasażerów komunikacji
 // KRIS-2; KRIS-3; KRIS-8; KRIS-11
 image::images/public_transport_problem.jpeg[pdfwidth=3in, align="center", link=https://www.wowamazing.com/wp-content/uploads/2015/12/japan10.jpeg]
