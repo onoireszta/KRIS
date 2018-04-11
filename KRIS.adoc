@@ -9,7 +9,7 @@ Komunikacji Regulacji Inteligentny System
 :numbered:
 :sectnumlevels: 5
 :toc:
-:toclevels: 5
+:toclevels: 4
 
 === Wstęp
 Prezentowany dokument jest produktem projektu _KRIS_.
