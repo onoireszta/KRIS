@@ -76,6 +76,19 @@ include::parts_of_document/cyclists/solution_to_the_problem_of_fear_of_cars.adoc
 include::parts_of_document/cyclists/solution_to_the_problem_of_fear_other_cyclists.adoc[]
 
 
+=== Ocena zaproponowanych rozwiązań
+==== Ocena rozwiązań dotyczących kierowców samochodów
+// KRIS-1; KRIS-4; KRIS-5; KRIS-6; KRIS-9; KRIS-12
+include::parts_of_document/car_drivers/evaluation_of_solutions.adoc[]
 
+==== Ocena rozwiązań dotyczących pasażerów komunikacji
+// KRIS-2; KRIS-3; KRIS-8; KRIS-11
+TODO
 
+==== Ocena rozwiązań dotyczących pieszych
+// KRIS-7;
+TODO
 
+==== Ocena rozwiazań dotyczących rowerzystów
+// KRIS-10
+TODO
