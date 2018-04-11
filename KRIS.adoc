@@ -91,4 +91,4 @@ TODO
 
 ==== Ocena rozwiazań dotyczących rowerzystów
 // KRIS-10
-TODO
+include::parts_of_document/cyclists/assessment_of_solutions.adoc[]
