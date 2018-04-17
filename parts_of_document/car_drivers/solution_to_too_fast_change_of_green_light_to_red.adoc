@@ -1,5 +1,4 @@
-+=== [KRIS-9.C.1] Zaprojektować rozwiązanie dla pierwszej z trzech przyczyn
-**(Zbyt szybka zmiana zielonego światła na czerwone, aby kierowcy zdążyli zjechać ze skrzyżowania)**
+===== Zbyt szybka zmiana zielonego światła na czerwone, aby kierowcy zdążyli zjechać ze skrzyżowania
 
 W celu rozwiązania tej przyczyny należy przeprowadzić badanie, które na celu maiłoby sprawdzenie o ile wydłużenie cyklu zielonego światła powodowałby zjechanie ze skrzyżowania jak największej ilości aut. W celu tego codziennie należałby zwiększać interwał w jakim zmieniają światła oraz przeanalizować z zapisu kamer, ile samochodów zjechał w danym interwale ze skrzyżowania. Po dokonaniu takiego badania analizując jego wyniki można byłoby wprowadzić zoptymalizowany czas trwania zielonego światła, który pozwalałby na zajazd ze skrzyżowania jak największej ilości samochodów. 
 
