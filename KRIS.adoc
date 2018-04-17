@@ -62,6 +62,8 @@ include::parts_of_document/car_drivers/alternative_solution_instead_of_waiting_f
 
 include::parts_of_document/car_drivers/solution_to_the_problem_of_poor_visibility.adoc[]
 
+include::parts_of_document/car_drivers/solution_to_too_fast_change_of_green_light_to_red.adoc[]
+
 ==== Rozwiązania dotyczące pasażerów komunikacji
 // KRIS-2; KRIS-3; KRIS-8; KRIS-11
 
