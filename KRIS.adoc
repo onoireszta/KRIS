@@ -40,7 +40,7 @@ image::images/public_transport_problem.jpeg[pdfwidth=3in, align="center", link=h
 ==== Problemy dotyczące pieszych
 // KRIS-7;
 image::images/pedestrian.jpg[pdfwidth=3in, align="center", link=https://i.ytimg.com/vi/TmBuCmQAGR8/maxresdefault.jpg]
-
+  
 include::parts_of_document/pedestrians/causes_of_short_green_fear.adoc[]
 
 include::parts_of_document/pedestrians/main_causes_of_short_green_fear.adoc[]
@@ -52,6 +52,14 @@ image::images/cyclists.jpg[pdfwidth=3in, align="center", link=https://bicycledut
 include::parts_of_document/cyclists/significant_causes_of_fear.adoc[]
 
 include::parts_of_document/cyclists/selected_significant_causes_of_fear.adoc[]
+
+==== Problemy dotyczące pasażerów tramwaju
+image::images/trams.jpeg[pdfwidth=3in, align="center", link=https://r-scale-c1.dcs.redcdn.pl/scale/o2/tvn/web-content/m/i/a01610228fe998f515a72dd730294d87/1660ff3e-73ea-11e1-9670-0025b511226e.jpg]
+
+// KRIS-2
+
+include::parts_of_document/tram_passengers/causes_of_tram_blocking_Towarowa_Solidarnosci.adoc[]
+
 
 === Proponowane rozwiązania
 ==== Rozwiązania dotyczące kierowców samochodów
