@@ -39,6 +39,8 @@ image::images/public_transport_problem.jpeg[pdfwidth=3in, align="center", link=h
 
 include::parts_of_document/passengers/causes_of_inefficient_buspass_usage.adoc[]
 
+include::parts_of_document/passengers/selected_causes_of_inefficient_buspass_usage.adoc[]
+
 ==== Problemy dotyczące pieszych
 // KRIS-7;
 image::images/pedestrian.jpg[pdfwidth=3in, align="center", link=https://i.ytimg.com/vi/TmBuCmQAGR8/maxresdefault.jpg]
