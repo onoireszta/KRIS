@@ -60,6 +60,8 @@ image::images/trams.jpeg[pdfwidth=3in, align="center", link=https://r-scale-c1.d
 
 include::parts_of_document/tram_passengers/causes_of_tram_blocking_Towarowa_Solidarnosci.adoc[]
 
+include::parts_of_document/tram_passengers/main_causes_of_tram_blocking_Towarowa_Solidarnosci.adoc[]
+
 
 === Proponowane rozwiązania
 ==== Rozwiązania dotyczące kierowców samochodów
