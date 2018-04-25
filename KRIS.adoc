@@ -69,7 +69,12 @@ include::parts_of_document/car_drivers/solution_to_too_fast_change_of_green_ligh
 
 ==== Rozwiązania dotyczące pieszych
 // KRIS-7;
+include::parts_of_document/pedestrians/solution_to_fear_of_too_short_green_light.adoc[]
+
 include::parts_of_document/pedestrians/solution_to_passing_2_times.adoc[]
+
+include::parts_of_document/pedestrians/solution_to_fear_of_missing_bus_by_an_inch.adoc[]
+
 
 ==== Rozwiązania dotyczące rowerzystów
 // KRIS-10
@@ -89,8 +94,8 @@ TODO
 
 ==== Ocena rozwiązań dotyczących pieszych
 // KRIS-7;
-TODO
+include::parts_of_document/pedestrians/evaluation_of_solutions.adoc[]
 
-==== Ocena rozwiazań dotyczących rowerzystów
+==== Ocena rozwiązań dotyczących rowerzystów
 // KRIS-10
 include::parts_of_document/cyclists/assessment_of_solutions.adoc[]
