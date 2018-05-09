@@ -41,7 +41,7 @@ image::images/KRIS-2.jpg[pdfwidth=3in, align="center"]
 
 ==== Problemy dotyczące pieszych
 // KRIS-7;
-image::images/pedestrian.jpg[pdfwidth=3in, align="center", link=https://i.ytimg.com/vi/TmBuCmQAGR8/maxresdefault.jpg]
+image::images/KRIS-7.jpg[pdfwidth=3in, align="center"]
 
 include::parts_of_document/pedestrians/causes_of_short_green_fear.adoc[]
 
