@@ -10,12 +10,17 @@ Komunikacji Regulacji Inteligentny System
 :sectnumlevels: 5
 :toc:
 :toclevels: 4
+:toc-title: Spis treści
 
 === Wstęp
 Prezentowany dokument jest produktem projektu _KRIS_.
 Kolejne rozdziały przedstawiają składowe całego systemu.
 
 NOTE: Należy mieć na uwadze, że dokument ten jest dziełem wielu osób, którym na sercu leży poprawa komunikacji miejskiej m. st. Warszawy.
+
+NOTE: _KRIS_ jest projektem prospołeczny, tworzonym przez ludzi i dla ludzi, którym na sercu leży ochrona środowiska.
+Świadomość, że można coś zrobić, aby poprawić komfort życia na ziemi, o której Antoine de Saint-Exupéry pisał, że jest "planetą ludzi", jest czynnikiem napędzającym autorów i jednocześnie łączącym ich nierzadko różne priorytety.
+
 
 ===== Aktualny stan komunikacji miejskiej (publicznej i prywatnej) w Warszawie z punktu widzenia użytkownika
 include::parts_of_document/introduction/causes_of_public_and_private_transport.adoc[]
