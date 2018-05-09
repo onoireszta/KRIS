@@ -221,3 +221,4 @@ TSWLatexianTemp*
 
 # generated html document (e.g. by asciidoctor)
 *.html
+parts_of_document/pedestrians/solution_to_fear_of_passing_road_in_parts.adoc
