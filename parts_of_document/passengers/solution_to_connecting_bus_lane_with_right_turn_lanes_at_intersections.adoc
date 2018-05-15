@@ -1,0 +1,9 @@
+﻿===== Rozwiązanie przypadku, gdy buspas jest nieefektywnie wykorzystywany, ponieważ jest łączony z pasami do skrętu w prawo na skrzyżowaniach
+
+Tamowanie ruchu na buspasach połączonych z pasami do skrętu w prawo jest spowodowane otwarciem ruchu dla pieszych. Analiza natężenia ruchu na drodze może pomóc zadecydować,
+w którym momencie należy otworzyć ruch dla pieszych, tak aby nie kolidowało to z przejazdem pojazdów skręcających w prawo. W przypadku nadjeżdzającego autobusu i możliwości powstania
+zatoru na buspasie, system może zamknąć ruch dla pieszych, aby przyspieszyć opuszczenie skrzyżowania przez pojazdy skręcające w prawo.
+
+Alternatywnym rozwiązaniem tego przypadku może być poszerzenie dróg jednopasmowych/dwupasmowych przy wjeździe na skrzyżowanie o jeden krótki pas, który zostanie wykorzystany jako pas do skrętu.
+
+Kosztownym rozwiązaniem tego przypadku może być wybudowanie podziemnych tuneli dla pieszych, których ruch po ulicy blokuje przejazd pojazdów skręcających w prawo.
