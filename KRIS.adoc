@@ -62,6 +62,8 @@ include::parts_of_document/tram_passengers/causes_of_tram_blocking_Towarowa_Soli
 
 include::parts_of_document/tram_passengers/main_causes_of_tram_blocking_Towarowa_Solidarnosci.adoc[]
 
+include::parts_of_document/tram_passengers/solution_to_the_second_problem.adoc[]
+
 
 === Proponowane rozwiązania
 ==== Rozwiązania dotyczące kierowców samochodów
