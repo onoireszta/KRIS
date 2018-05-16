@@ -1,0 +1,5 @@
+===== Rozwiązanie przypadku, gdy buspas jest użytkowany przez dużą ilość pojazdów, które nie są do tego uprawnione
+
+Rozwiązaniem może być przebudowanie/poszerzenie problematycznego fragmentu trasy autobusu 523 o kolejny pas ruchu, co naturalnie zmniejszy potrzebę nieuprawnionego użytkowania buspasu.
+
+Alternatywnym rozwiązaniem tego przypadku może być inteligentny system monitoringu użytkowania buspasu, który będzie wyłapywał pojazdy użytkujące buspas w sposób nieuprawniony, a potem przy wykorzystaniu SSN decydował, czy nieuprawnione użycie kwalifikuje sie na mandat i automatycznie wysyłał powiadomiania do właścicieli zakwalifikowanych do mandatu pojazdów.
