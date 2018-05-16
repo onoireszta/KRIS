@@ -32,6 +32,8 @@ image::images/car_driver.jpeg[pdfwidth=3in, align="center", link=http://www.chat
 
 include::parts_of_document/car_drivers/causes_of_traffic_jams.adoc[]
 
+image::images/KRIS-12.jpg[pdfwidth=3in, align="center"]
+
 include::parts_of_document/car_drivers/selected_significant_causes_of_traffic_jams.adoc[]
 
 include::parts_of_document/car_drivers/causes_of_blocking_crossings_by_cars.adoc[]
@@ -52,6 +54,8 @@ image::images/pedestrian.jpg[pdfwidth=3in, align="center", link=https://i.ytimg.
   
 include::parts_of_document/pedestrians/causes_of_short_green_fear.adoc[]
 
+image::images/KRIS-7.jpeg[pdfwidth=3in, align="center"]
+
 include::parts_of_document/pedestrians/main_causes_of_short_green_fear.adoc[]
 
 ==== Problemy dotyczące rowerzystów
@@ -67,6 +71,8 @@ image::images/trams.jpeg[pdfwidth=3in, align="center", link=https://r-scale-c1.d
 // KRIS-2
 
 include::parts_of_document/tram_passengers/causes_of_tram_blocking_Towarowa_Solidarnosci.adoc[]
+
+image::images/KRIS-2.jpg[pdfwidth=3in, align="center"]
 
 include::parts_of_document/tram_passengers/main_causes_of_tram_blocking_Towarowa_Solidarnosci.adoc[]
 
