@@ -97,7 +97,7 @@ include::parts_of_document/car_drivers/evaluation_of_solutions.adoc[]
 
 ==== Ocena rozwiązań dotyczących pasażerów komunikacji
 // KRIS-2; KRIS-3; KRIS-8; KRIS-11
-TODO
+include::parts_of_document/passengers/evaluation_of_bus_lane_blocking_solutions.adoc[]
 
 ==== Ocena rozwiązań dotyczących pieszych
 // KRIS-7;
