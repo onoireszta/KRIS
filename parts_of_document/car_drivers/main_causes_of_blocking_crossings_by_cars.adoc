@@ -1,5 +1,5 @@
 ====== Istotne przyczyny blokowania skrzyżowań przez samochody:
 
-* zbyt szybka zmiana zielonego światła na czerwone, aby kierowcy zdążyli zjechać ze skrzyżowania
-* utrudniona ocena możliwości zjazdu ze skrzyżowania przez słabą widoczność (nie widać jak bardzo zapchane jest skrzyżowanie po drugiej stronie, a nawet ile jest pasów ruchu)
-* kierowcy wjeżdżają na skrzyżowania nawet jeżeli wiedzą, że nie uda im się zjechać przed zapaleniem się czerwonego światła, powodem zwykle jest nerwowość i pośpiech
+* zbyt szybka zmiana zielonego światła na czerwone, aby kierowcy zdążyli zjechać ze skrzyżowania;
+* utrudniona ocena możliwości zjazdu ze skrzyżowania przez słabą widoczność (nie widać, jak bardzo zapchane jest skrzyżowanie po drugiej stronie, a nawet ile jest pasów ruchu);
+* kierowcy wjeżdżają na skrzyżowania nawet jeżeli wiedzą, że nie uda im się zjechać przed zapaleniem się czerwonego światła, powodem zwykle jest nerwowość i pośpiech.
