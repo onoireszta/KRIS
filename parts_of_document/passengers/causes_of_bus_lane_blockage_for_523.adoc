@@ -1,0 +1,7 @@
+===== Przyczyny trudności z wjazdem autobusu 523 na buspas
+* buspas jest użytkowany przez wiele pojazdów, wiele z nich nie jest do tego uprawnionych
+* liczne skrzyżowania sprawiają, że pas dla autobusów blokowany jest przez samochody skręcające w prawo
+* nieciągłość buspasów sprawia, że autobus stoi w korku na odcinkach przed rozpoczęciem/wznowieniem buspasa
+* samochody zajmujące pas próbują rozpaczliwie z niego zjechać, gdy pojawia się za nimi autobus, jednocześnie blokując pas bardziej niż gdyby zmieniły pas niewiele dalej
+* kierowcy uniemożliwiają wjazd autobusom na buspas na skrzyżowaniach, gdzie potrzebuje on więcej niż jeden pas do wykonania manewru skrętu
+

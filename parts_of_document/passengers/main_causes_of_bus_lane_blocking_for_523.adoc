@@ -1,0 +1,3 @@
+===== Istotne przyczyny trudności z wjazdem autobusu 523 na buspas:
+* buspas jest użytkowany przez wiele pojazdów, wiele z nich nie jest do tego uprawnionych
+* nieciągłość buspasów sprawia, że autobus stoi w korku na odcinkach przed rozpoczęciem/wznowieniem buspasa
