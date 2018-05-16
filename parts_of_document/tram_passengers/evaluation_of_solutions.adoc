@@ -1,0 +1,12 @@
+===== Ocena rozwiązania dla problemu blokowania przejazdu tramwaju przez skrzyżowanie Towarowa-Solidarności (z uwagi na brak możliwości adaptacji zmiany świateł)
+Zaproponowane rozwiązanie, polegające na instalacji systemu dynamicznej kontroli sygnalizacji świetlnej, wydaje się rozsądną propozycją.
+Pomysł na zastosowanie kamer dla każdego ciągu komunikacyjnego wraz ze sterownikiem głównym, powinien zmniejszyć częstotliwość blokowania przejazdu tramwaju.
+Warto zauważyć, że popularna na świecie propozycja montażu "sekundników" (informacji, ile sekund zostało do zmiany świateł) może znacząco poprawić koncentrację kierowców, a tym samym jeszcze bardziej zmniejszyć (być może całkowicie wyeliminować) problem blokowania przejazdu tramwajów przez wskazane skrzyżowanie. 
+
+===== Ocena rozwiązania dla problemu blokowania skrzyżowania przez kierowców, którzy w godzinach szczytu nie zjeżdżają z niego na czas na zielonym świetle
+W tym przypadku propozycja zastosowania "liczników" (nazywanych też "sekundnikami") choć słuszna, to jednak została naiwnie przedstawiona.
+Tylko świadomy kierowca powstrzyma się od wjazdu na skrzyżowanie, gdy zobaczy informację, że zmiana świateł nastąpi za dwie sekundy.
+Nieświadomy kierowca nie będzie się tym faktem przejmował. Zignoruje komunikat i wjedzie (ciesząc się, że zdążył przed czasem).
+Innymi słowy: samo ustawienie wspomnianych "liczników" może nie przynieść zakładanych efektów.
+Można przypuszczać, że gdyby wspomóc ten pomysł jakąś kampanią społeczną uświadamiającą kierowców, rezultat byłby znacznie bardziej spektakularny.
+Niestety taka propozycja nie została złożona.

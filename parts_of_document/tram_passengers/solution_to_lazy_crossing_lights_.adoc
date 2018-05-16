@@ -1,0 +1,3 @@
+==== Blokowanie przejazdu tramwaju przez skrzyżowanie Towarowa-Solidarności z uwagi na brak możliwości adaptacji zmiany świateł.
+
+Dla omawianego przypadku przewiduje się instalację systemu dynamicznej kontroli sygnalizacji świetlnej, obejmującego: kamery dla każdego ciągu komunikacyjnego oraz sterownik główny. Oprogramowanie tego urządzenia musi pozwalać na priorytetowanie danej grupy pojazdów - dla tego skrzyżowania będą to tramwaje, dzięki czemu poprawi się płynność ich przejazdu kosztem innych użytkowników drogi. Dodatkowo można zaproponować montaż sekundników, pozwalających lepiej przygotować się kierowcom do zmiany sygnału.
