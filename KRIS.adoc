@@ -34,7 +34,7 @@ include::parts_of_document/car_drivers/causes_of_blocking_crossings_by_cars.adoc
 include::parts_of_document/car_drivers/main_causes_of_blocking_crossings_by_cars.adoc[]
 
 ==== Problemy dotyczące pasażerów komunikacji
-// KRIS-2; KRIS-3; KRIS-8; KRIS-11
+// KRIS-3; KRIS-8; KRIS-11
 image::images/public_transport_problem.jpeg[pdfwidth=3in, align="center", link=https://www.wowamazing.com/wp-content/uploads/2015/12/japan10.jpeg]
 
 ==== Problemy dotyczące pieszych
@@ -55,7 +55,6 @@ include::parts_of_document/cyclists/selected_significant_causes_of_fear.adoc[]
 
 ==== Problemy dotyczące pasażerów tramwaju
 image::images/trams.jpeg[pdfwidth=3in, align="center", link=https://r-scale-c1.dcs.redcdn.pl/scale/o2/tvn/web-content/m/i/a01610228fe998f515a72dd730294d87/1660ff3e-73ea-11e1-9670-0025b511226e.jpg]
-
 // KRIS-2
 
 include::parts_of_document/tram_passengers/causes_of_tram_blocking_Towarowa_Solidarnosci.adoc[]
@@ -75,10 +74,7 @@ include::parts_of_document/car_drivers/solution_to_the_problem_of_poor_visibilit
 include::parts_of_document/car_drivers/solution_to_too_fast_change_of_green_light_to_red.adoc[]
 
 ==== Rozwiązania dotyczące pasażerów komunikacji
-// KRIS-2; KRIS-3; KRIS-8; KRIS-11
-include::parts_of_document/tram_passengers/solution_to_lazy_crossing_lights_.adoc[]
-
-include::parts_of_document/tram_passengers/solution_to_the_second_problem.adoc[]
+// KRIS-3; KRIS-8; KRIS-11
 
 ==== Rozwiązania dotyczące pieszych
 // KRIS-7;
@@ -90,6 +86,12 @@ include::parts_of_document/cyclists/solution_to_the_problem_of_fear_of_cars.adoc
 
 include::parts_of_document/cyclists/solution_to_the_problem_of_fear_other_cyclists.adoc[]
 
+==== Rozwiązania dotyczące pasażerów tramwaju
+// KRIS-2
+include::parts_of_document/tram_passengers/solution_to_lazy_crossing_lights_.adoc[]
+
+include::parts_of_document/tram_passengers/solution_to_the_second_problem.adoc[]
+
 
 === Ocena zaproponowanych rozwiązań
 ==== Ocena rozwiązań dotyczących kierowców samochodów
@@ -97,7 +99,7 @@ include::parts_of_document/cyclists/solution_to_the_problem_of_fear_other_cyclis
 include::parts_of_document/car_drivers/evaluation_of_solutions.adoc[]
 
 ==== Ocena rozwiązań dotyczących pasażerów komunikacji
-// KRIS-2; KRIS-3; KRIS-8; KRIS-11
+// KRIS-3; KRIS-8; KRIS-11
 TODO
 
 ==== Ocena rozwiązań dotyczących pieszych
@@ -107,3 +109,7 @@ TODO
 ==== Ocena rozwiazań dotyczących rowerzystów
 // KRIS-10
 include::parts_of_document/cyclists/assessment_of_solutions.adoc[]
+
+==== Ocena rozwiązań dotyczących pasażerów tramwaju
+// KRIS-2
+include::parts_of_document/tram_passengers/evaluation_of_solutions.adoc[]
