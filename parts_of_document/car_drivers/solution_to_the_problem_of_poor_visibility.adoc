@@ -1,4 +1,4 @@
 ===== Przyczyny blokowania skrzyżowań przez samochody -> Utrudniona ocena możliwości zjazdu ze skrzyżowania przez słabą widoczność
 
-* Rozwiązaniem tego problemu może być "oczujnikowanie" zjazdu ze skrzyżowania i sprzęgnięcie czujników z systemem sygnalizacyjnym, tak że aktualny brak możliwości zjazdu, będzie sygnalizowany kierowcom wjeżdżającym na skrzyżowanie,
-* Dodatkowo poza automatycznym systemem sygnalizacji można zastosować system kamer, tak aby wjeżdząjący na skrzyżowanie kierowcy widzieli dokładnie z różnych ujęć jaka jest sytuacja na zjeździe ze skrzyżowania
+* Rozwiązaniem tego problemu może być "oczujnikowanie" zjazdu ze skrzyżowania i sprzęgnięcie czujników z systemem sygnalizacyjnym, tak że aktualny brak możliwości zjazdu, będzie sygnalizowany kierowcom wjeżdżającym na skrzyżowanie;
+* dodatkowo poza automatycznym systemem sygnalizacji można zastosować system kamer, aby wjeżdżąjący na skrzyżowanie kierowcy widzieli dokładnie z różnych ujęć, jaka jest sytuacja na zjeździe ze skrzyżowania.
