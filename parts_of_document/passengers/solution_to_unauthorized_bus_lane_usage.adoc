@@ -1,5 +1,3 @@
-===== Rozwiązanie przypadku, gdy buspas jest użytkowany przez dużą ilość pojazdów, które nie są do tego uprawnione
+===== Rozwiązanie nieuprawnionego wykorzystywania buspasów przez kierowców do wyprzedzania, omijania innych pojazdów stojących w korku
 
-Rozwiązaniem może być przebudowanie/poszerzenie problematycznego fragmentu trasy autobusu 523 o kolejny pas ruchu, co naturalnie zmniejszy potrzebę nieuprawnionego użytkowania buspasu.
-
-Alternatywnym rozwiązaniem tego przypadku może być inteligentny system monitoringu użytkowania buspasu, który będzie wyłapywał pojazdy użytkujące buspas w sposób nieuprawniony, a potem przy wykorzystaniu SSN decydował, czy nieuprawnione użycie kwalifikuje sie na mandat i automatycznie wysyłał powiadomiania do właścicieli zakwalifikowanych do mandatu pojazdów.
+Sposobem na ograniczenie nieuprawnionego użycia buspasów jest detekcja takich przypadków przez monitoring i automatyczne zgłaszanie. Większe prawdopodobieństwo otrzymania kary skłoniłoby część kierowców do pozostania na, zwykle bardziej zakorkowanym, pasie ogólnodostępnym.
