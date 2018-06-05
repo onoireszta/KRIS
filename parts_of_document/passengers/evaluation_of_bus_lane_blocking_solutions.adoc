@@ -1,0 +1,9 @@
+===== Ocena rozwiązania przypadku, gdy nieciągłość buspasów sprawia, że autobus stoi w korku na odcinkach przed rozpoczęciem/wznowieniem buspasa
+Propozycja związana z zajęciem skrajnie prawych pasów wydaję się racjonalna przy nadmienionym założeniu szczegółowej analizy, które pasy mogą być tak zajmowane nie wywołując znacznych niepokojów społecznych wśród kierowców. Ciekawym pomysłem jest zastosowanie interaktywnych znaków drogowych i integracji z aplikacjami nawigującymi, choć trzeba pamiętać o znacznym koszcie takiego rozwiązania. Istotne jest aby zaproponowane rozwiązanie było możliwie mało ograniczające drożność podstawowych pasów ruchu.
+
+Rozwiązanie opierające się o poszczerzenie dróg ściśle wynika z możliwości zmiany zabudowy i tam, gdzie to możliwe jest godne zaproponowania, a w innych miejscach zastosować przedstawioną wcześniej koncepcję.
+
+===== Ocena rozwiązania przypadku, gdy buspas jest użytkowany przez dużą ilość pojazdów, które nie są do tego uprawnione
+Propozycja związana z poszerzeniem problematycznego fragmentu trasy, jak już wcześniej wspomniano, ściśle zależy od możliwości zmiany zabudowy, więc jeśli w problematycznym fragmencie/fragmentach trasy ta zmiana jest możliwa należy ją zastosować. Jeżeli nie ma takiej możliwości należy poszukać innych rozwiązań.
+
+Rozwiązanie związane z inteligentnym systemem monitoringu użytkowania buspasów i kwalifikacji do mandatów niesie ze sobą dużą niepewność związaną z nieprzewidywalnością zastosowanej heurystyki. W związku z tym można sie pokusić o wdrożenie tego rozwiązania w trybie pilotażowym, a następnie zweryfikować czy może być szerzej zastosowane. 
