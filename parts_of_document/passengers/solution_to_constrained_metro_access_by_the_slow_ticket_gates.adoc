@@ -1,0 +1,5 @@
+===== Rozwiązanie przypadku utrudnionego dotarcia na peron metra ze względu na opóźnienia w działaniu bramek biletowych
+
+Rozwiązaniem może być zniesienie bramek, szczególnie w miejscach, w których ich pokonanie bez biletu (przeskoczenie) i tak nie stanowi problemu. Egzekwowanie zakupu biletów niestety wymaga konsekwentnych kontroli biletów na peronie metra jak i w samym pociągu. Powinno się to jednak wiązać z systemem zniżek/ulg dla mieszkańców miasta korzystających z komunikacji miejskiej.
+
+Alternatywnym rozwiązaniem jest wymiana powolnych bramek, które łatwo pokonać na solidniejsze, ale niezawodne bramki biletowe (jak w linii M2). Jest to jednak rozwiązanie stosunkowo kosztowne i niekoniecznie skuteczne.
