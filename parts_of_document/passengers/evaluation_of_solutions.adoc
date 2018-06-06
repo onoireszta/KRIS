@@ -1,0 +1,22 @@
+===== Ocena rozwiązania dla problemu opóźnienia w działaniu bramek biletowych
+Należy zauważyć, że pomysł likwidacji bramek nie ma dobrego uzasadnienia. 
+Istnienie bramek ma charakter prewencyjny.
+Dodatkowo, bramka umieszczona przed wejściem na peron metra pełni funkcję darmowego kontrolera -- często ludzie dopiero w tym miejscu ("kasując" bilet) dowiadują się, że ich bilet jest już nieważny.
+Bramka metra pełni również rolę zabezpieczenia przed różnymi osobami, których stan ogólnej świadomości zagraża ich życiu.
+Gdyby wejście na stację metra nie było poprzedzone bramką kontrolną, to można domniemywać, że częściej dochodziłoby do tragedii w obszarze straty ludzkiego życia.
+
+W opisie problemu zasugerowano, że bramki linii M2 są lepsze od bramek z linii M1.
+Zdecydowanie, ze względu na ich gabaryty, trudniej je sforsować (przeskakując nad bramką -- co jest możliwe w linii M1).
+Jednak twierdzenie, że bramki linii M2 działają szybciej od bramek z M1 jest konfabulacją.
+Każdy mieszkaniec Warszawy, który regularnie podróżuje metrem, wie, że dłużej na wejście czeka się przed nowymi (nowoczesnymi) bramkami spotykanymi na peronach linii M2.
+
+===== Ocena rozwiązania dla problemu utrudnionego dotarcia na peron metra ze względu na prace serwisowe schodów ruchomych
+Propozycja przebudowy infrastruktury (wymiany schodów, budowy nowych wind), choć jest szalenie droga, to sprawia wrażenie sensownej.
+Nie zmienia to jednak faktu, że ze względu na uciążliwość i niedogodności, którym poddani byliby mieszkańcy stolicy, nie znajdziemy nikogo, kto głośno i otwarcie zawoła: "zróbmy to".
+Koszt takiej inwestycji jest na tyle wysoki, że od razu znajdzie się silna grupa protestująca w sprawie "wydawania publicznych pieniędzy pod pretekstem naprawy czegoś co przecież działa".
+Inaczej mówiąc, trzeba mieć na uwadze, że ta propozycja może wywołać silną polaryzację wśród mieszkańców Warszawy.
+
+Alternatywny pomysł na usprawnienie prac serwisowych schodów ruchomych i wind jest propozycją wartą rozważenia.
+Jednak uczciwie należy zaznaczyć, że prace serwisowe bardzo często są przeprowadzane wieczorami, w nocy.
+W ciągu dnia, jeśli schody ruchome są wyłączone z użycia, to najczęściej dzieje się to w wyniku awarii a nie z powodu przeprowadzania prac serwisowych.
+Dlatego prawdopodobnie tą propozycją rozwiązania problemu niczego się nie zmieni, gdyż jest ona wprowadzona w życie.
