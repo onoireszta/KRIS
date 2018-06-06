@@ -1,0 +1,5 @@
+===== Rozwiązanie przypadku utrudnionego dotarcia na peron metra ze względu na wyłączenie schodów ruchomych spowodowane pracami serwisowymi
+
+Rozwiązaniem może być kompleksowa przebudowa infrastruktury stacji metra zwiększając ilość dostępnych "pasów" na schodach ruchomych, tak aby nawet wyłączenie jednego z nich przy którymś wejściu nie powodowało zatorów komunikacyjnych. Dodatkowo przy takiej przebudowie należałoby rozważyć montaż dodatkowych wind i modernizację samej technologi schodów ruchomych. Oczywistą wadą takiego rozwiązanie jest bardzo duży koszt.
+
+Alternatywnym rozwiązaniem może być usprawnienie serwisu schodów, tak aby ograniczyć znacząco ilość ich wyłączeń, zwiększyć częstotliwość rutynowych kontroli i zadbać o odpowiednią organizację planowych prac serwisowych, aby minimalnie utrudniać ruch (np. w nocy).
