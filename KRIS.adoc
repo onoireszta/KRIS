@@ -139,4 +139,6 @@ include::parts_of_document/cyclists/assessment_of_solutions.adoc[]
 // KRIS-2
 include::parts_of_document/tram_passengers/evaluation_of_solutions.adoc[]
 
+=== Podsumowanie
+
 include::parts_of_document/recommendation_unified.adoc[]
