@@ -10,12 +10,17 @@ Komunikacji Regulacji Inteligentny System
 :sectnumlevels: 5
 :toc:
 :toclevels: 4
+:toc-title: Spis treści
 
 === Wstęp
 Prezentowany dokument jest produktem projektu _KRIS_.
 Kolejne rozdziały przedstawiają składowe całego systemu.
 
 NOTE: Należy mieć na uwadze, że dokument ten jest dziełem wielu osób, którym na sercu leży poprawa komunikacji miejskiej m. st. Warszawy.
+
+NOTE: _KRIS_ jest projektem prospołeczny, tworzonym przez ludzi i dla ludzi, którym na sercu leży ochrona środowiska.
+Świadomość, że można coś zrobić, aby poprawić komfort życia na ziemi, o której Antoine de Saint-Exupéry pisał, że jest "planetą ludzi", jest czynnikiem napędzającym autorów i jednocześnie łączącym ich nierzadko różne priorytety.
+
 
 ===== Aktualny stan komunikacji miejskiej (publicznej i prywatnej) w Warszawie z punktu widzenia użytkownika
 include::parts_of_document/introduction/causes_of_public_and_private_transport.adoc[]
@@ -27,6 +32,8 @@ image::images/car_driver.jpeg[pdfwidth=3in, align="center", link=http://www.chat
 
 include::parts_of_document/car_drivers/causes_of_traffic_jams.adoc[]
 
+image::images/KRIS-12.jpg[pdfwidth=3in, align="center"]
+
 include::parts_of_document/car_drivers/selected_significant_causes_of_traffic_jams.adoc[]
 
 include::parts_of_document/car_drivers/causes_of_blocking_crossings_by_cars.adoc[]
@@ -34,18 +41,24 @@ include::parts_of_document/car_drivers/causes_of_blocking_crossings_by_cars.adoc
 include::parts_of_document/car_drivers/main_causes_of_blocking_crossings_by_cars.adoc[]
 
 ==== Problemy dotyczące pasażerów komunikacji
-// KRIS-2; KRIS-3; KRIS-8; KRIS-11
+// KRIS-3; KRIS-8; KRIS-11
 image::images/public_transport_problem.jpeg[pdfwidth=3in, align="center", link=https://www.wowamazing.com/wp-content/uploads/2015/12/japan10.jpeg]
 
 include::parts_of_document/passengers/causes_of_constrained_metro_access.adoc[]
 
 include::parts_of_document/passengers/selected_significant_causes_of_constrained_metro_access.adoc[]
 
+include::parts_of_document/passengers/causes_of_inefficient_buspass_usage.adoc[]
+
+include::parts_of_document/passengers/selected_causes_of_inefficient_buspass_usage.adoc[]
+
 ==== Problemy dotyczące pieszych
 // KRIS-7;
 image::images/pedestrian.jpg[pdfwidth=3in, align="center", link=https://i.ytimg.com/vi/TmBuCmQAGR8/maxresdefault.jpg]
-
+  
 include::parts_of_document/pedestrians/causes_of_short_green_fear.adoc[]
+
+image::images/KRIS-7.jpeg[pdfwidth=3in, align="center"]
 
 include::parts_of_document/pedestrians/main_causes_of_short_green_fear.adoc[]
 
@@ -56,6 +69,17 @@ image::images/cyclists.jpg[pdfwidth=3in, align="center", link=https://bicycledut
 include::parts_of_document/cyclists/significant_causes_of_fear.adoc[]
 
 include::parts_of_document/cyclists/selected_significant_causes_of_fear.adoc[]
+
+==== Problemy dotyczące pasażerów tramwaju
+image::images/trams.jpeg[pdfwidth=3in, align="center", link=https://r-scale-c1.dcs.redcdn.pl/scale/o2/tvn/web-content/m/i/a01610228fe998f515a72dd730294d87/1660ff3e-73ea-11e1-9670-0025b511226e.jpg]
+// KRIS-2
+
+include::parts_of_document/tram_passengers/causes_of_tram_blocking_Towarowa_Solidarnosci.adoc[]
+
+image::images/KRIS-2.jpg[pdfwidth=3in, align="center"]
+
+include::parts_of_document/tram_passengers/main_causes_of_tram_blocking_Towarowa_Solidarnosci.adoc[]
+
 
 === Proponowane rozwiązania
 ==== Rozwiązania dotyczące kierowców samochodów
@@ -74,6 +98,10 @@ include::parts_of_document/passengers/solution_to_constrained_metro_access_by_th
 
 include::parts_of_document/passengers/solution_to_constrained_metro_access_by_the_escalator_maitenance.adoc[]
 
+include::parts_of_document/passengers/solution_to_discontinuity_of_bus_lanes.adoc[]
+
+include::parts_of_document/passengers/solution_to_unauthorized_bus_lane_usage.adoc[]
+
 ==== Rozwiązania dotyczące pieszych
 // KRIS-7;
 include::parts_of_document/pedestrians/solution_to_fear_of_too_short_green_light.adoc[]
@@ -89,6 +117,12 @@ include::parts_of_document/cyclists/solution_to_the_problem_of_fear_of_cars.adoc
 
 include::parts_of_document/cyclists/solution_to_the_problem_of_fear_other_cyclists.adoc[]
 
+==== Rozwiązania dotyczące pasażerów tramwaju
+// KRIS-2
+include::parts_of_document/tram_passengers/solution_to_lazy_crossing_lights_.adoc[]
+
+include::parts_of_document/tram_passengers/solution_to_the_second_problem.adoc[]
+
 
 === Ocena zaproponowanych rozwiązań
 ==== Ocena rozwiązań dotyczących kierowców samochodów
@@ -99,6 +133,8 @@ include::parts_of_document/car_drivers/evaluation_of_solutions.adoc[]
 // KRIS-2; KRIS-3; KRIS-8; KRIS-11
 include::parts_of_document/passengers/evaluation_of_solutions.adoc[]
 
+include::parts_of_document/passengers/causes_of_inefficient_buspass_usage_solutions.adoc[]
+
 ==== Ocena rozwiązań dotyczących pieszych
 // KRIS-7;
 include::parts_of_document/pedestrians/evaluation_of_solutions.adoc[]
@@ -106,3 +142,7 @@ include::parts_of_document/pedestrians/evaluation_of_solutions.adoc[]
 ==== Ocena rozwiązań dotyczących rowerzystów
 // KRIS-10
 include::parts_of_document/cyclists/assessment_of_solutions.adoc[]
+
+==== Ocena rozwiązań dotyczących pasażerów tramwaju
+// KRIS-2
+include::parts_of_document/tram_passengers/evaluation_of_solutions.adoc[]

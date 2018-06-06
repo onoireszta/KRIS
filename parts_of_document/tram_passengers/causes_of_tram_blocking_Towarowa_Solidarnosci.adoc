@@ -1,0 +1,5 @@
+===== Przczyny blokowania przejazdu tramwaju przez skrzyżowanie Towarowa-Solidarności
+* Brak możliwości adaptacji dynamiki zmiany świateł do aktualnej sytuacji na skrzyżowaniu;
+* ruch tramwajów na tym skrzyżowaniu odbywa się prawie w każdym możliwym kierunku łącznie ze skrętami w prawo i w lewo;
+* część kierowców w godzinach szczytu może blokować skrzyżowanie nie zjeżdżając z niego na czas na zielonym świetle;
+* skrzyżowanie posiada nadziemne przejścia dla pieszych, co przy tak skomplikowanym komunikacyjnie skrzyżowaniu dodatkowo komplikuje organizację ruchu.
