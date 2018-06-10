@@ -6,6 +6,6 @@
 * pieszy obawia się, że nie zdąży przejść przez ulicę, aby zdążyć na autobus / inny środek transportu czekający po drugiej stronie ulicy w trakcie nadawania zielonego sygnału;
 * pieszy obawia się, że będzie odczuwał silne zmęczenie, ponieważ musi przyspieszyć kroku, aby przejść na drugą stronę ulicy;
 * pieszy, z powodu barier fizycznych (np. Nie może poruszać się zbyt szybko), odczuwa lęk, że nie będzie w stanie przejść przez ulicę na zielonym świetle;
-* pieszy obawia się, że jesli nie zdąży przejść na zielonym świetle, to zostanie przejechany przez samochód;
-* pieszy obawia się, że jesli nie zdązy przejść na zielonym świetle, to zostanie obtrąbiony przez samochody;
+* pieszy obawia się, że jeśli nie zdąży przejść na zielonym świetle, to zostanie przejechany przez samochód;
+* pieszy obawia się, że jeśli nie zdąży przejść na zielonym świetle, to zostanie "obtrąbiony" przez samochody;
 * pieszy obawia się, że jeśli nie zdąży przejść na zielonym świetle, znajdzie się w niekomfortowej sytuacji i zmusi innych użytkowników drogi do tego, aby na niego czekali.

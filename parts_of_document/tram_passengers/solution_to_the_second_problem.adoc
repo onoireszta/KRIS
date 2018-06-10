@@ -1,3 +1,7 @@
-==== Część kierowców w godzinach szczytu może blokować skrzyżowanie nie zjeżdżając z niego na czas na zielonym świetle
+==== Rozwiązanie problemu przejawiającego się tym, że część kierowców w godzinach szczytu może blokować skrzyżowanie nie zjeżdżając z niego na czas na zielonym świetle
 
-Rozwiązaniem tego problemu może być stosowanie liczników, które to pokazują, ile jeszcze będzie trwać zielone światło w danym kierunku. Kierowcy z informacją na temat, że zielone światło będzie trwać jeszcze tylko kilka sekund mogą zrezygnować z wjazdu na skrzyżowanie a co za tym idzie nie blokować przejazdu innym uczestnikom ruchu. Dodatkowo można zastosować dodatkowy znak STOP, który byłby włączany się w momencie, kiedy to ostatni samochód stoi np. na pasach dla pieszych. W tym momencie wjazd z zapalonym znakiem STOP groziłby mandatem. Sposób ten mógłby w bardziej skuteczny sposób odstraszyć kierujących od blokowania skrzyżowań 
+Rozwiązaniem tego problemu może być stosowanie liczników, które pokazują, ile jeszcze będzie trwać zielone światło w danym kierunku.
+Kierowcy z informacją na temat, że zielone światło będzie trwać jeszcze tylko kilka sekund, mogą zrezygnować z wjazdu na skrzyżowanie, a co za tym idzie, nie blokować przejazdu innym uczestnikom ruchu.
+Dodatkowo można zastosować dodatkowy znak __STOP__, który byłby włączany dopiero w momencie, kiedy to ostatni samochód stoi np. na pasach dla pieszych.
+W tym momencie wjazd z zapalonym znakiem __STOP__ groziłby mandatem.
+Takie rozwiązanie mogłoby w bardziej skuteczny sposób odstraszyć kierujących od blokowania skrzyżowań.

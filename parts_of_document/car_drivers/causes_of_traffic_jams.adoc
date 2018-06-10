@@ -1,15 +1,15 @@
 ===== Powstawanie i uczestniczenie w korkach przy zamkniętych przejazdach
 
-====== *Przyczyny powstawania korków przy zamkniętych przejazdach*
+====== Przyczyny powstawania korków przy zamkniętych przejazdach
 * umiejscowienie przejazdów w okolicy dużych węzłów drogowych,
 * zbyt wczesne zamykanie przejazdów,
 * przejazd dużej ilości pociągów bez otwierania przejazdu pomiędzy pociągami,
 * brak tuneli lub wiaduktów kolejowych, które powodowałyby usprawnienie ruchu,
-* niedostosowanie częstotliwości przejazdów pociągów do dużego natężenia ruchu w godzinach porannych
+* niedostosowanie częstotliwości przejazdów pociągów do dużego natężenia ruchu w godzinach porannych.
 
-====== *Przyczyny uczestnictwa w korkach przy zamkniętych przejazdach*
+====== Przyczyny uczestnictwa w korkach przy zamkniętych przejazdach
 * niekorzystanie z komunikacji miejskiej,
 * unikanie tras na których jest przejazd kolejowy,
 * brak odpowiednio długich zatoczek lub pasów dodatkowych dla osób oczekujących na przejazd po otwarciu szlabanu,
 * brak infrastruktury (okolice Pragi Północ) kolejowej pozwalającej na „wyprowadzenie” kolei z centrum miasta tunelami (przykład centrum Warszawy),
-* brak tras zastępczych dla pociągu innych niż pasażerskie
+* brak tras zastępczych dla pociągów innych niż pasażerskie.

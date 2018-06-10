@@ -1,4 +1,4 @@
-===== Ocena rozwiązania przypadku, gdy pieszy obawia się, że nie jest w stanie spokojnie przejść przez całą ulicę, ponieważ światło jest za krótkie
+===== Ocena rozwiązania problemu, gdy pieszy obawia się, że nie jest w stanie spokojnie przejść przez całą ulicę, ponieważ światło jest za krótkie
 Propozycja związana z budową w każdym miejscu o wzmożonym natężeniu ruchu przejść podziemnych wydaje się nierealna. 
 Sytuacja, w której drogi byłyby rozkopane w całej okolicy, byłaby nieakceptowana społecznie, co w dalszej perspektywie czasowej prowadziło by do strajku mieszkańców.
 
@@ -9,14 +9,13 @@ Choć wdrożenie takiego rozwiązania może być bardzo kosztowne (ze względu n
 analizy uzyskanych danych, instalacji kamer w wyznaczonych obszarach (m.in. przy przejściach)), to jednak wydaje się ono sensowne. 
 Ma potencjał wdrożeniowy, a przy założeniu nieograniczonego budżetu, instalacja kamer analizujących ruch na każdym skrzyżowaniu, wydaje się nie być problemem.
 
-===== Ocena rozwiązania w przypadku, gdy pieszy obawia się, że będzie musiał przechodzić przez pasy "na dwa razy", bo się nie zdąży.
+===== Ocena rozwiązania problemu, gdy pieszy obawia się, że będzie musiał przechodzić przez pasy "na dwa razy", ponieważ się nie zdąży
 Zaproponowane rozwiązania na pierwszy rzut oka wydaje się sensowne i choć trochę przemyślane. Jednak po dłużej analizie można zauważyć, 
 że złożoność opisywanego algorytmy może przerastać możliwości techniczne. Dodatkowo dostosowywanie częstotliwości zmiany świateł do osoby 
 najwolniej poruszającej się po przejściu dla pieszych, może rodzić problemy, gdy pierwszy zostanie źle zidentyfikowany. 
 Z całą pewnością rozwiązanie jest godne uwagi, ale przy aktualnym stanie wiedzy należy je schować w segregatorze z napisem: "przeczytać za 20 lat".
 
-
-===== Ocena rozwiązania w przypadku, gdy pierwszy obawia się, że nie zdąży na autbus (gdy stoi i czeka, aby móc wejść na przejście dla pieszych).
+===== Ocena rozwiązania problemu, gdy pierwszy obawia się, że nie zdąży na autobus (gdy stoi i czeka, aby móc wejść na przejście dla pieszych)
 Zaproponowane rozwiązanie jest zbyt futurystyczne i nie uwzględnia realiów rzeczywistości, w której przyszło nam żyć. 
 Nie można zakładać, że autobus będzie czekał na pasażerów, ponieważ w ten sposób mógłby czekać "w nieskończoność", gdyż co chwila zjawiałby się nowy pasażer, 
 któremu akurat bardzo się spieszy.

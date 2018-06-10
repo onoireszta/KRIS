@@ -1,7 +1,12 @@
-===== Rozwiązanie przypadku, gdy nieciągłość buspasów sprawia, że autobus stoi w korku na odcinkach przed rozpoczęciem/wznowieniem buspasa
+===== Rozwiązanie problemu, gdy nieciągłość buspasów sprawia, że autobus stoi w korku na odcinkach przed rozpoczęciem / wznowieniem buspasa
 
-Rozwiązaniem może być zajęcie istniejących skrajnie prawych pasów na rzecz buspasa, aby połączyć nieciągłe buspasy. Rozwiązanie to należy zastosować na drogach mocno obciążonych ruchem. Odpowiednia analiza natężenia ruchu drogowego może dostarczać informacji kiedy pas powinien być buspasem, a kiedy nie. Zajęcie buspasa powinno być dokonywane jedynie wtedy, kiedy jest to konieczne (np. w przypadku korku, wypadku). Interaktywne znaki drogowe mogłyby informować kierowców, czy dany pas jest w danej chwili buspasem. Aplikacje nawigujące mogą pobierać dane z systemu i informować użytkowników drogi o obowiązującej aktualnie organizacji ruchu.
+Rozwiązaniem może być zajęcie istniejących skrajnie prawych pasów na rzecz buspasa, aby połączyć nieciągłe buspasy.
+Rozwiązanie to należy zastosować na drogach mocno obciążonych ruchem.
+Odpowiednia analiza natężenia ruchu drogowego może dostarczać informacji kiedy pas powinien być buspasem, a kiedy nie.
+Zajęcie buspasa powinno być dokonywane jedynie wtedy, kiedy jest to konieczne (np. w przypadku korka, wypadku).
+Interaktywne znaki drogowe mogłyby informować kierowców, czy dany pas jest w danej chwili buspasem.
+Aplikacje nawigujące mogłyby pobierać dane z systemu i informować użytkowników drogi o obowiązującej aktualnie organizacji ruchu.
 
-Alternatywnym rozwiązaniem tego przypadku może być poszerzenie dróg jednopasmowych/dwupasmowych o jeden pas, który zostanie zajęty przez buspas. 
+Alternatywnym rozwiązaniem tego przypadku może być poszerzenie dróg jednopasmowych i dwupasmowych o jeden pas, który zostanie zajęty przez buspas. 
 
 Oba powyższe rozwiązania dotyczą przede wszystkim dróg, którymi przebiega trasa autobusu 523.

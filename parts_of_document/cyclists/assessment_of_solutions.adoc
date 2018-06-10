@@ -1,50 +1,57 @@
-===== Ocena wykonalności rozwiązań dotyczących strachu rowerzysty względem zielonej strzałki
+===== Ocena rozwiązań dotyczących strachu rowerzysty względem zielonej strzałki
 
-====== Przyczyny strachu rowerzysty -> Strach ze względu na samochody
+====== Strach rowerzysty ze względu na samochody
 
-`_Rozwiązaniem tego problemu może być zamontowanie przed skrzyżowaniem odpowiednich czujników ruchu, które będą wykrywały zbliżającego się rowerzystę i wygaszały "zieloną strzałkę" odpowiednio wcześnie, tak aby kierowca wiedział, że nie może wjechać na skrzyżowanie._`
+_Rozwiązaniem tego problemu może być zamontowanie przed skrzyżowaniem odpowiednich czujników ruchu, które będą wykrywały zbliżającego się rowerzystę i wygaszały "zieloną strzałkę" odpowiednio wcześnie, tak aby kierowca wiedział, że nie może wjechać na skrzyżowanie._
 
-Czujniki ruchu są o tyle problematyczne, że potrzebne jest zamontowanie ich na każdym skrzyżowaniu, w ten sposób gwarantując rowerzyście spójność działania i dając poczucie bezpieczeństwa. Ponadto kolejną trudnością jest ocenienie czy rowerzysta przejedzie przez skrzyżowanie, czy zatrzyma się przed nim w celu pokonania go w kierunku prostopadłym.
+Czujniki ruchu są o tyle problematyczne, że potrzebne jest zamontowanie ich na każdym skrzyżowaniu, w ten sposób gwarantując rowerzyście spójność działania i dając poczucie bezpieczeństwa.
+Ponadto kolejną trudnością jest ocenienie czy rowerzysta przejedzie przez skrzyżowanie, czy zatrzyma się przed nim w celu pokonania go w kierunku prostopadłym.
 
-`_(...) dla kierowców ignorujących przepisy można rozważyć zaostrzenie kar._`
+_(...) dla kierowców ignorujących przepisy można rozważyć zaostrzenie kar._
 
 Zaostrzenie kar zwykle nie daje zamierzonego efektu, a ponadto trudno jest egzekwować przestrzeganie takiego prawa. Większość wykroczeń byłaby wykrywana dopiero przy wypadkach, do których często nie dochodzi ze względu na zwiększoną uwagę rowerzysty podyktowaną wspomnianym strachem.
 
-====== Przyczyny strachu rowerzysty → Strach ze względu na pieszych/rowerzystów
+====== Strach rowerzysty ze względu na pieszych / rowerzystów
 
-`_Zalecanym rozwiązaniem dla danego problemu jest, po pierwsze obniżenie prędkości (z możliwością zatrzymania się) podczas wchodzenia w skręt, aby bez problemu rozejrzeć się w sytuacji. Jest to najbezpieczniejsze rozwiąznie, nie ingerujące w jakikolwiek sposób z otoczeniem._`
+_Zalecanym rozwiązaniem dla danego problemu jest, po pierwsze obniżenie prędkości (z możliwością zatrzymania się) podczas wchodzenia w skręt, aby bez problemu rozejrzeć się w sytuacji. Jest to najbezpieczniejsze rozwiązanie, nie ingerujące w jakikolwiek sposób z otoczeniem._
 
 Potrzebna do tego jest kampania społeczna, ale redukcja prędkości zwiększa dostępny czas na reakcję i przez to zmniejsza prawdopodobieństwo kolizji.
 
-`_Kolejnym dostępnym rozwiązaniem, które jednak nie daje 100% pewności,jest wdrożenie sygnału dziękowego, który będzie wydawany podczas skrętu w celu ostrzeżenia innych uczestników. Rozwiąznie to wymaga przetestowanie pod kątem rodzaju i natężenia dzwięku jaki ma być wydawany._`
+_Kolejnym dostępnym rozwiązaniem, które jednak nie daje 100% pewności,jest wdrożenie sygnału dźwiękowego, który będzie wydawany podczas skrętu w celu ostrzeżenia innych uczestników.
+Rozwiązanie to wymaga przetestowanie pod kątem rodzaju i natężenia dźwięku jaki ma być wydawany._
 
 Sygnalizowanie dźwiękowe na ruchliwych drogach może prowadzić do chaosu i ginięcia tej informacji.
 
 
-`_Trzecim z proponowanych rozwiązań, najmniej pewnym jak i najbardziej skomplikowanym, jest przeprowadzenie szerokozakrojonej kampanii informacyjnej mającej na celu zwiększenie uwagii społeczeństwa w ruchu drogowym oraz przywiązania ich do przepisów. Dodatkowym punktem tego rozwiązania jest przejście przez rowerzystę kursu psychologicznego w celu wyeleminowania przyczyn jego strachu._`
+_Trzecim z proponowanych rozwiązań, najmniej pewnym jak i najbardziej skomplikowanym, jest przeprowadzenie szeroko zakrojonej kampanii informacyjnej mającej na celu zwiększenie uwagi społeczeństwa w ruchu drogowym oraz przywiązania ich do przepisów. 
+Dodatkowym punktem tego rozwiązania jest przejście przez rowerzystę kursu psychologicznego w celu wyeliminowania przyczyn jego strachu._
 
-Kampania informacyjna, zwłaszcza dla osób wyrabiających karty rowerowe lub wchodzących w posiadanie roweru, przekazana w przystępny sposób mogłaby wskazać nierozważane przez uczestnika ruchu racje drugiej strony: rowerzysty przez pieszego oraz pieszego przez rowerzystę.
+Kampania informacyjna, zwłaszcza dla osób wyrabiających karty rowerowe lub wchodzących w posiadanie roweru, przekazana w przystępny sposób, mogłaby wskazać nierozważane przez uczestnika ruchu racje drugiej strony:
+rowerzysty przez pieszego oraz pieszego przez rowerzystę.
 
-`_Ostatnim rozwiązaniem jest jak w przypadku poprzedniego rozwiązania zaostrzenie kar, w tym wypadku dla rowerzystów ignorujących przepisy._`
+_Ostatnim rozwiązaniem jest jak w przypadku poprzedniego rozwiązania zaostrzenie kar, w tym wypadku dla rowerzystów ignorujących przepisy._
 
 Podobnie jak poprzednio, karanie nie zawsze przynosi efekt zbliżony do zamierzonego.
 
-`_Dodatkowym rozpatrywanym rozwiązaniem, które mogłoby zostać zastosowane w tym przypadku jest przypisanie rowerzyście środków uspakających jednak ze względu na uczestnictwo w ruchu drogowym jest to wysoce wzbronione._`
+_Dodatkowym rozpatrywanym rozwiązaniem, które mogłoby zostać zastosowane w tym przypadku jest przypisanie rowerzyście środków uspakajających jednak ze względu na uczestnictwo w ruchu drogowym jest to wysoce wzbronione._
 
-Środki uspokajające nie zmienią złej kultury jazdy, mogą jedynie upanować negatywne emocje po ewentualnej kolizji lub zdarzeniu, które o mały włos nie jest kolizją.
+Środki uspokajające nie zmienią złej kultury jazdy, mogą jedynie opanować negatywne emocje po ewentualnej kolizji lub zdarzeniu, które o mały włos nie jest kolizją.
 
-====== Przyczyny strachu rowerzysty -> Strach koloru zieloneg
+====== Strach rowerzysty przed kolorem zielonym
 
-`_Pierwszym sposobem na rozwiązanie tego problemu może być zastosowanie diody RGB w sygnalizacji co pozwoli na zmianę koloru w zależności od pory dnia oraz rowerzyście nie będzie kojarzyć się już tylko z kolorem zielonym. Kolejności umiejscowienia oznaczeń na sygnalizatorze nie uległaby zmianie._`
+_Pierwszym sposobem na rozwiązanie tego problemu może być zastosowanie diody RGB w sygnalizacji, co pozwoli na zmianę koloru w zależności od pory dnia oraz rowerzyście nie będzie kojarzyć się już tylko z kolorem zielonym.
+Kolejność umiejscowienia oznaczeń na sygnalizatorze nie uległaby zmianie._
 
-Rozwiązanie to jest tymczasowe, po przyzwyczajeniu do nowego systemu rowerzysta może obawiać się całej gamy kolorów w zalezności od pory dnia. Dodatkowo wpływa na wolniejszą reakcję przy odbieraniu bodźca wzrokowego peryferyjnie.
+Rozwiązanie to jest tymczasowe, po przyzwyczajeniu do nowego systemu rowerzysta może obawiać się całej gamy kolorów w zależności od pory dnia.
+Dodatkowo wpływa na wolniejszą reakcję przy odbieraniu bodźca wzrokowego peryferyjnie.
 
-`_Drugim sposobem na rozwiązanie tego problemu jest zastosowanie wyświetlacza, na którym to można byłoby wyświetlać animacje, która pokazuje co rowerzysta ma zrobić w danym momencie stać lub jechać._`
+_Drugim sposobem na rozwiązanie tego problemu jest zastosowanie wyświetlacza, na którym można byłoby wyświetlać animację, która pokazuje, co rowerzysta ma zrobić w danym momencie stać lub jechać._
 
-Jako, że rower pozwala na osiąganie znacznych prędkości, informacja o pozwoleniu na wjechanie na skrzyżowanie powinna być widoczna także z daleka. Ponadto interpretacja takich animacji mogłaby być niejednoznaczna i wymagać uwagi rowerzysty, której przez to nie poświęci na dopasowanie się do warunków na skrzyżowaniu.
+Jako, że rower pozwala na osiąganie znacznych prędkości, informacja o pozwoleniu na wjechanie na skrzyżowanie powinna być widoczna także z daleka.
+Ponadto interpretacja takich animacji mogłaby być niejednoznaczna i wymagać uwagi rowerzysty, której przez to nie poświęci na dopasowanie się do warunków na skrzyżowaniu.
 
-`_Trzecim i ostatnim proponowanym sposobem może być zastosowanie liczników, które odliczają jak długo jeszcze rowerzysta może jechać. Liczniki te zastąpiłby tradycyjne zielone światło a pozwoliłby dodatkowo poinformować rowerzystę czy według jego oceny zdąży przejechać skrzyżowanie w wyświetlanym czasie._`
+_Trzecim i ostatnim proponowanym sposobem może być zastosowanie liczników, które odliczają jak długo jeszcze rowerzysta może jechać.
+Liczniki te zastąpiłby tradycyjne zielone światło, a pozwoliłby dodatkowo poinformować rowerzystę czy według jego oceny zdąży przejechać skrzyżowanie w wyświetlanym czasie._
 
-Rozwiązanie skuteczne o ile licznik jest widoczny z daleka. Pozwala na ocenę czy zdąży przejechać lub jak dużo pozostało do światła zielonego i przez to dopasowanie prędkości przed skrzyżowaniem, by nie musieć się zatrzymywać.
-
-
+Rozwiązanie skuteczne, o ile licznik jest widoczny z daleka.
+Pozwala na ocenę czy zdąży przejechać lub jak dużo pozostało do światła zielonego i przez to dopasowanie prędkości przed skrzyżowaniem, by nie musieć się zatrzymywać.

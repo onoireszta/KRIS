@@ -1,0 +1,11 @@
+===== Ocena rozwiązania problemu nie ustępowania pierwszeństwa dla pojazdów uprawnionych do korzystania z buspasów
+
+Rozwiązanie to wymaga zbyt dużych zmian w infrastrukturze drogowej.
+Przebudowa skrzyżowań oraz poszerzanie jezdni w wielu przypadkach jest niemożliwa z uwagi na brak miejsca w okolicy istniejących już dróg.
+Dodatkowo wiąże się z modernizacją chodników oraz ścieżek rowerowych, co powoduje gwałtowny wzrost ceny takiej inwestycji.
+Fizyczne oddzielanie od buspasów również zostaje ocenione negatywnie ponieważ może to zagrażać ogólnemu bezpieczeństwu w przypadku wypadku lub chęci uniknięcia kolizji z innym pojazdem.
+
+===== Ocena rozwiązania problemu nieuprawnionego wykorzystywania buspasów przez kierowców do wyprzedzania, omijania innych pojazdów stojących w korku
+
+Propozycja związana z zamontowaniem systemu monitoringu, który automatycznie zgłaszałby nadużycia w używaniu buspasów, powinna zostać wprowadzona w większości przypadków.
+Rozwiązanie to sprawi, że kierowcy przestaną używać buspasów w obawie otrzymania mandatu, który zostanie wystawiony na podstawie obrazu z kamery.

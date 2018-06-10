@@ -1,6 +1,9 @@
-===== Rozwiązanie przypadku, gdy pieszy obawia się, że nie jest w stanie spokojnie przejść przez całą ulicę, ponieważ światło jest za krótkie
+===== Rozwiązanie problemu, gdy pieszy obawia się, że nie jest w stanie spokojnie przejść przez całą ulicę, ponieważ światło jest za krótkie
 
-Obawa przed zbyt krótkim czasem światła zielonego występuje głównie na drogach wielopasmowych o dużym natężeniu ruchu. Rozwiązaniem może być stworzenie przejść podziemnych dla ruchliwych ulic. Będąc rozwiązaniem dla ludzi młodych, osoby o ograniczonej mobilności i osoby starsze preferują pokonywanie skrzyżowań jak najkrótszą drogą, zwłaszcza bez konieczności schodzenia/wchodzenia po schodach. Wówczas, jeśli miejsce na to pozwala, można także zastosować wysepki. 
+Obawa przed zbyt krótkim trwaniem światła zielonego występuje głównie na drogach wielopasmowych o dużym natężeniu ruchu.
+Rozwiązaniem może być stworzenie przejść podziemnych dla ruchliwych ulic.
+Propozycja ta, będąc rozwiązaniem dla ludzi młodych, nie jest korzystna dla osób o ograniczonej mobilności i osób starszych, preferujących pokonywanie skrzyżowań jak najkrótszą drogą, zwłaszcza bez konieczności schodzenia lub wchodzenia po schodach.
+Wówczas, jeśli miejsce na to pozwala, można także zastosować wysepki. 
 
 Alternatywnym rozwiązaniem jest, w razie mniejszego natężenia ruchu, analiza drożności skrzyżowania przy wyłączonej sygnalizacji (migające światło żółte) i w razie satysfakcjonujących wyników, całkowite lub częściowe (np. w pewnych godzinach) jej usunięcie.
 
