@@ -11,6 +11,7 @@ Komunikacji Regulacji Inteligentny System
 :toc:
 :toclevels: 4
 :toc-title: Spis treści
+:figure-caption: Rysunek
 
 === Wstęp
 Prezentowany dokument jest produktem projektu _KRIS_.
@@ -32,11 +33,15 @@ image::images/car_driver.jpeg[pdfwidth=3in, align="center", link=http://www.chat
 
 include::parts_of_document/car_drivers/causes_of_traffic_jams.adoc[]
 
-image::images/KRIS-12.jpg[pdfwidth=3in, align="center"]
+.Wizualizacja dla problemu uczestnictwa w korkach przy zamkniętych przejazdach.
+image::images/KRIS-12.jpg[pdfwidth=6.5in, align="center"]
 
 include::parts_of_document/car_drivers/selected_significant_causes_of_traffic_jams.adoc[]
 
 include::parts_of_document/car_drivers/causes_of_blocking_crossings_by_cars.adoc[]
+
+.Wizualizacja dla problemu blokowania skrzyżowań przez samochody.
+image::images/KRIS-9.jpg[pdfwidth=6.5in, align="center"]
 
 include::parts_of_document/car_drivers/main_causes_of_blocking_crossings_by_cars.adoc[]
 
@@ -46,11 +51,24 @@ image::images/public_transport_problem.jpeg[pdfwidth=3in, align="center", link=h
 
 include::parts_of_document/passengers/causes_of_constrained_metro_access.adoc[]
 
+.Wizualizacja dla problemu zaspokojenia potrzeby szybkiego dostania się na stację metra.
+image::images/KRIS-11.png[pdfwidth=6.5in, align="center"]
+
 include::parts_of_document/passengers/selected_significant_causes_of_constrained_metro_access.adoc[]
 
 include::parts_of_document/passengers/causes_of_inefficient_buspass_usage.adoc[]
 
+.Wizualizacja dla problemu nieefektywnego wykorzystania buspasów.
+image::images/KRIS-8.jpeg[pdfwidth=6.5in, align="center"]
+
 include::parts_of_document/passengers/selected_causes_of_inefficient_buspass_usage.adoc[]
+
+include::parts_of_document/passengers/causes_of_bus_lane_blockage_for_523.adoc[]
+
+.Wizualizacja dla problemu utrudnionego wjazdu na buspas (autobusem 523).
+image::images/KRIS-3.png[pdfwidth=6.5in, align="center"]
+
+include::parts_of_document/passengers/main_causes_of_bus_lane_blocking_for_523.adoc[]
 
 ==== Problemy dotyczące pieszych
 // KRIS-7;
@@ -58,7 +76,8 @@ image::images/pedestrian.jpg[pdfwidth=3in, align="center", link=https://i.ytimg.
   
 include::parts_of_document/pedestrians/causes_of_short_green_fear.adoc[]
 
-image::images/KRIS-7.jpeg[pdfwidth=3in, align="center"]
+.Wizualizacja dla problemu poczucia poganiania przez "krótkie zielone światło".
+image::images/KRIS-7.jpeg[pdfwidth=5in, align="center"]
 
 include::parts_of_document/pedestrians/main_causes_of_short_green_fear.adoc[]
 
@@ -66,9 +85,10 @@ include::parts_of_document/pedestrians/main_causes_of_short_green_fear.adoc[]
 // KRIS-10
 image::images/cyclists.jpg[pdfwidth=3in, align="center", link=https://bicycledutch.files.wordpress.com/2016/06/vri-05.jpg]
 
-image::images/KRIS-10.jpg[pdfwidth=3in, align="center"]
-
 include::parts_of_document/cyclists/significant_causes_of_fear.adoc[]
+
+.Wizualizacja dla przyczyn strachu rowerzysty.
+image::images/KRIS-10.jpg[pdfwidth=3in, align="center"]
 
 include::parts_of_document/cyclists/selected_significant_causes_of_fear.adoc[]
 
@@ -78,7 +98,8 @@ image::images/trams.jpeg[pdfwidth=3in, align="center", link=https://r-scale-c1.d
 
 include::parts_of_document/tram_passengers/causes_of_tram_blocking_Towarowa_Solidarnosci.adoc[]
 
-image::images/KRIS-2.jpg[pdfwidth=3in, align="center"]
+.Wizualizacja dla problemu blokowania przejazdu tramwaju przez skrzyżowanie Towarowa-Solidarności
+image::images/KRIS-2.jpg[pdfwidth=6.5in, align="center"]
 
 include::parts_of_document/tram_passengers/main_causes_of_tram_blocking_Towarowa_Solidarnosci.adoc[]
 
@@ -133,9 +154,9 @@ include::parts_of_document/car_drivers/evaluation_of_solutions.adoc[]
 
 ==== Ocena rozwiązań dotyczących pasażerów komunikacji
 // KRIS-2; KRIS-3; KRIS-8; KRIS-11
-include::parts_of_document/passengers/evaluation_of_solutions.adoc[]
+include::parts_of_document/passengers/evaluation_of_constrained_metro_access.adoc[]
 
-include::parts_of_document/passengers/causes_of_inefficient_buspass_usage_solutions.adoc[]
+include::parts_of_document/passengers/evaluation_of_inefficient_buspass_usage_solutions.adoc[]
 
 ==== Ocena rozwiązań dotyczących pieszych
 // KRIS-7;

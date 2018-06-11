@@ -1,3 +1,4 @@
-===== Rozwiązanie nieuprawnionego wykorzystywania buspasów przez kierowców do wyprzedzania, omijania innych pojazdów stojących w korku
+===== Rozwiązanie problemu nieuprawnionego wykorzystywania buspasów przez kierowców do wyprzedzania, omijania innych pojazdów stojących w korku
 
-Sposobem na ograniczenie nieuprawnionego użycia buspasów jest detekcja takich przypadków przez monitoring i automatyczne zgłaszanie. Większe prawdopodobieństwo otrzymania kary skłoniłoby część kierowców do pozostania na, zwykle bardziej zakorkowanym, pasie ogólnodostępnym.
+Sposobem na ograniczenie nieuprawnionego użycia buspasów jest detekcja takich przypadków przez monitoring i automatyczne zgłaszanie do organu kontroli ruchu drogowego.
+Większe prawdopodobieństwo otrzymania kary skłoniłoby część kierowców do pozostania na pasie ogólnodostępnym, który zazwyczaj jest bardziej zakorkowany.

@@ -4,7 +4,7 @@ jest to podyktowane kosztem inwestycji.
 
 ===== Ocena rozwiązania problemu niekorzystania z komunikacji miejskiej (jako alternatywy dla stania w korku)
 Propozycja wydaje się możliwa w realizacji. Pomimo kosztów, które zostałyby poniesione (na społeczną kampanię reklamową 
-oraz na realnych przewoźników, którzy świdczyliby usługi transportowe).
+oraz na realnych przewoźników, którzy świadczyliby usługi transportowe).
 Istnieje jednak ryzyko, że to rozwiązanie byłoby znacznie bardziej kosztowne niż można przypuszczać. 
 Warto zaznaczyć, że ten pomysł sprawdziłby się dużo lepiej, gdyby dla uczestników stworzono rozwiązanie ułatwiające dostęp 
 do informacji, czyli aplikację mobilną. A taka aplikacja nie żyje w próżni, co oznacza, że musiałaby mieć stałego dostawcę, 
