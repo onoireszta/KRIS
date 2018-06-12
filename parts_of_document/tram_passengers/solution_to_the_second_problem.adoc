@@ -1,4 +1,4 @@
-==== Rozwiązanie problemu przejawiającego się tym, że część kierowców w godzinach szczytu może blokować skrzyżowanie nie zjeżdżając z niego na czas na zielonym świetle
+===== Rozwiązanie problemu przejawiającego się tym, że część kierowców w godzinach szczytu może blokować skrzyżowanie nie zjeżdżając z niego na czas na zielonym świetle
 
 Rozwiązaniem tego problemu może być stosowanie liczników, które pokazują, ile jeszcze będzie trwać zielone światło w danym kierunku.
 Kierowcy z informacją na temat, że zielone światło będzie trwać jeszcze tylko kilka sekund, mogą zrezygnować z wjazdu na skrzyżowanie, a co za tym idzie, nie blokować przejazdu innym uczestnikom ruchu.

@@ -1,4 +1,5 @@
 ===== Rozwiązanie problemu blokowania skrzyżowań przez kierowców samochodów, wynikającego z ograniczonej widoczności
 
-* Rozwiązaniem tego problemu może być "oczujnikowanie" zjazdu ze skrzyżowania i sprzęgnięcie czujników z systemem sygnalizacyjnym, tak że aktualny brak możliwości zjazdu, będzie sygnalizowany kierowcom wjeżdżającym na skrzyżowanie;
-* dodatkowo poza automatycznym systemem sygnalizacji można zastosować system kamer, aby wjeżdżający na skrzyżowanie kierowcy widzieli dokładnie z różnych ujęć, jaka jest sytuacja na zjeździe ze skrzyżowania.
+Rozwiązaniem tego problemu może być "oczujnikowanie" zjazdu ze skrzyżowania i sprzęgnięcie czujników z systemem sygnalizacyjnym w taki sposób, że aktualny brak możliwości zjazdu będzie sygnalizowany kierowcom wjeżdżającym na skrzyżowanie.
+
+Dodatkowo poza automatycznym systemem sygnalizacji można zastosować system kamer, aby wjeżdżający na skrzyżowanie kierowcy widzieli dokładnie z różnych ujęć, jaka jest sytuacja na zjeździe ze skrzyżowania.
