@@ -26,6 +26,7 @@ NOTE: _KRIS_ jest projektem prospołecznym, tworzonym przez ludzi i dla ludzi, k
 ===== Aktualny stan komunikacji miejskiej (publicznej i prywatnej) w Warszawie z punktu widzenia użytkownika
 include::parts_of_document/introduction/causes_of_public_and_private_transport.adoc[]
 
+<<<
 === Problemy różnych grup społecznych
 ==== Problemy dotyczące kierowców samochodów
 // KRIS-1; KRIS-4; KRIS-5; KRIS-6; KRIS-9; KRIS-12
@@ -45,6 +46,7 @@ image::images/KRIS-9.jpg[pdfwidth=6.5in, align="center"]
 
 include::parts_of_document/car_drivers/main_causes_of_blocking_crossings_by_cars.adoc[]
 
+<<<
 ==== Problemy dotyczące pasażerów komunikacji
 // KRIS-3; KRIS-8; KRIS-11
 image::images/public_transport_problem.jpeg[pdfwidth=3in, align="center", link=https://www.wowamazing.com/wp-content/uploads/2015/12/japan10.jpeg]
@@ -77,7 +79,7 @@ image::images/pedestrian.jpg[pdfwidth=3in, align="center", link=https://i.ytimg.
 include::parts_of_document/pedestrians/causes_of_short_green_fear.adoc[]
 
 .Wizualizacja dla problemu poczucia poganiania przez "krótkie zielone światło".
-image::images/KRIS-7.jpeg[pdfwidth=5in, align="center"]
+image::images/KRIS-7.jpeg[pdfwidth=6.5in, align="center"]
 
 include::parts_of_document/pedestrians/main_causes_of_short_green_fear.adoc[]
 
@@ -140,12 +142,12 @@ include::parts_of_document/cyclists/solution_to_the_problem_of_fear_of_cars.adoc
 
 include::parts_of_document/cyclists/solution_to_the_problem_of_fear_other_cyclists.adoc[]
 
+<<<
 ==== Rozwiązania dotyczące pasażerów tramwaju
 // KRIS-2
 include::parts_of_document/tram_passengers/solution_to_lazy_crossing_lights_.adoc[]
 
 include::parts_of_document/tram_passengers/solution_to_the_second_problem.adoc[]
-
 
 === Ocena zaproponowanych rozwiązań
 ==== Ocena rozwiązań dotyczących kierowców samochodów
